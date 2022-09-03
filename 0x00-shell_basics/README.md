@@ -1,1 +1,2 @@
-a script that prints the absolute path name of a current working directory
+script that changes tje working directory to the users home directory > README.md
+echo script that changes tje working directory to the users home directory
