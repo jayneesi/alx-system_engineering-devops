@@ -1,1 +1,1 @@
-current_working_directory
+display current directory contents includinghidden files starting with .

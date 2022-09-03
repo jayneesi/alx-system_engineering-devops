@@ -1,1 +1,1 @@
-Display current directory content in a long format
+4.Hidden files
