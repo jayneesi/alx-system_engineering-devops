@@ -1,4 +1,4 @@
-a acript that prints the absolute pathname of a working directory > README.md
+a script that prints the absolute pathname of a working directory > README.md
 
 
 
@@ -22,4 +22,4 @@ cd /root
 
 
 $
-echo a acript that prints the absolute pathname of a working directory
+echo a script that prints the absolute pathname of a working directory
